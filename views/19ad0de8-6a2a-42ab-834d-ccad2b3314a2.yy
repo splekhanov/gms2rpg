@@ -4,7 +4,7 @@
     "mvc": "1.1",
     "name": "19ad0de8-6a2a-42ab-834d-ccad2b3314a2",
     "children": [
-        "f9b75a78-fce0-42b8-b0a5-1577d57bf4cf"
+        "2c06cbc2-3eac-4078-a57a-488c9504fb09"
     ],
     "filterType": "GMSprite",
     "folderName": "Props",
